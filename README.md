@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://project-1-psi-gold.vercel.app/](https://project-1-psi-gold.vercel.app/)
 
-- 💬 Ask me about **MERN , Python , C++ ,DSA**
+- 💬 Ask me about **MERN , Python , C++ , DSA**
 
 - 📫 How to reach me **Shivamupadhyay2868@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FapY1EfzHvIJDFN-q-Pj1bkLI-T-z9tM/view?usp=drive_link](https://drive.google.com/file/d/1FapY1EfzHvIJDFN-q-Pj1bkLI-T-z9tM/view?usp=drive_link)
+- 📄 Resume [https://drive.google.com/file/d/1FapY1EfzHvIJDFN-q-Pj1bkLI-T-z9tM/view?usp=drive_link](https://drive.google.com/file/d/1FapY1EfzHvIJDFN-q-Pj1bkLI-T-z9tM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
