@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **Python , React Native**
 
-- 👨‍💻 All of my projects are available at [https://project-1-psi-gold.vercel.app/](https://project-1-psi-gold.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Shivamup51/Shivamup51)
+
+- Portfolio [https://project-1-psi-gold.vercel.app/]
 
 - 💬 Ask me about **MERN , Python , C++ , DSA**
 
