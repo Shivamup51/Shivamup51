@@ -1,7 +1,6 @@
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
 <h1 align="center">Hi 👋, I'm Shivam Upadhyay</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align ="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align ="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamup51&label=Profile%20views&color=0e75b6&style=flat" alt="shivamup51" /> </p>
 
