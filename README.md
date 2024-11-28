@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Shivamupadhyay2868@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1FapY1EfzHvIJDFN-q-Pj1bkLI-T-z9tM/view?usp=drive_link](https://drive.google.com/file/d/1FapY1EfzHvIJDFN-q-Pj1bkLI-T-z9tM/view?usp=drive_link)
+- 📄 Resume [(https://drive.google.com/file/d/1FapY1EfzHvIJDFN-q-Pj1bkLI-T-z9tM/view?usp=drive_link)}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
