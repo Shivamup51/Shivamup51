@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align ="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"
 
-- 🔭 I’m currently working on **Real time Chat-App**
+- 🔭 I’m currently working at **ToysPresoo PVT LTD**
 
 - 🌱 I’m currently learning **Python , React Native**
 
