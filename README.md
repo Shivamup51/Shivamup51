@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivamup51/Shivamup51)
 
-- Portfolio [https://project-1-psi-gold.vercel.app/]
+- Portfolio [https://portfolio-cyan-xi-23.vercel.app/]
 
 - 💬 Ask me about **MERN , Python , C++ , DSA**
 
