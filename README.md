@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python , React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shivamup51/Shivamup51)
+- 👨‍💻 All of my projects are available at [https://github.com/Shivamup51/Shivamup51]
 
 - Portfolio [https://portfolio-cyan-xi-23.vercel.app/]
 
