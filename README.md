@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shivam Upadhyay</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h3 align="center">A Passionate Software Developer Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" />
 
 ---
 
-- 🔭 I’m currently working at **Cogniolabs.ai** as a Software Development Engineer  
+- 🔭 I’m currently working at <a href="https://cognio.so/" target="_blank"><u>Cogniolabs.ai</u></a> as a Software Development Engineer  
 - 🌱 I’m currently exploring **LangGraph** & **LangChain**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Shivamup51/Shivamup51)  
 - 📫 Reach me at **Shivamupadhyay2868@gmail.com**
 
 ---
+
 
 ### 💬 Ask me about:
 - **MERN Stack** (React.js, Node.js, Express.js, MongoDB, Mongoose)  
