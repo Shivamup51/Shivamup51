@@ -10,7 +10,17 @@
 
 - Portfolio [https://portfolio-cyan-xi-23.vercel.app/]
 
-- 💬 Ask me about **MERN Stack (React.js, Node.js, Express.js, MongoDB), Python, C++, Data Structures & Algorithms (DSA), Tailwind CSS, Next.js, FastAPI, Git/GitHub, REST APIs, MongoDB with Mongoose, Authentication (JWT, bcrypt, Better Auth), Deployment (Vercel, GitHub Pages), Problem Solving (HackerRank 4⭐ in C++, CodeChef 1024 rating)**
+- 💬 Ask me about:  
+  - **MERN Stack** (React.js, Node.js, Express.js, MongoDB, Mongoose)  
+  - **Frontend Tools**: React.js, Next.js, Tailwind CSS  
+  - **Backend Tools**: Express.js, FastAPI, REST APIs, Authentication (JWT, bcrypt, Better Auth)  
+  - **Programming Languages**: C++ (HackerRank 4⭐, CodeChef rating 1024), Python, JavaScript  
+  - **Data Structures & Algorithms (DSA)**  
+  - **Databases**: MongoDB, Firebase  
+  - **Dev Tools**: Git, GitHub, Postman  
+  - **Deployment**: Vercel, GitHub Pages  
+  - **Problem Solving & Competitive Coding**  
+
 
 - 📫 How to reach me **Shivamupadhyay2868@gmail.com**
 
