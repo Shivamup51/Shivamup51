@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **LangGraph , LangChain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shivamup51/Shivamup51]
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Shivamup51/Shivamup51)
 
 - 💬 Ask me about:  
   - **MERN Stack** (React.js, Node.js, Express.js, MongoDB, Mongoose)  
